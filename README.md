@@ -1,4 +1,4 @@
-# BIMstandards
+# GOBEP
 
 Ce site destiné à promouvoir l'interopérabilité et l'openBIM, et à faciliter leur implémentation dans les logiciels-métier, est développé et mis à jour par [Alexandre Grignon](https://fr.linkedin.com/in/alexandregrignon).
 
